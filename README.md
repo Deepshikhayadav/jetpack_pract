@@ -25,7 +25,6 @@
  
   </span>
   
----
 
 ## 🎯GitHub Streak
 
@@ -35,7 +34,6 @@
   
   </div>
   
----
   
   ## 🚀 Know more about me 👋
   
