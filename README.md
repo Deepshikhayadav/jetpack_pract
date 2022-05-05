@@ -12,7 +12,8 @@
 - 🤔 I’m looking for help with AWS, Machine learning
 - 💬 Ask me about kotlin, java, firebase, room, Rest Api
 
-### 📊 Github Stats
+## 📊 Github Stats
+
  <span align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=deepshikhayadav&count_private=true&show_icons=true&theme=highcontrast&include_all_commits=true" alt="Deepshikha yadav |Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepshikhayadav&theme=dracula&layout=compact)](https://github.com/deepshikhayadav/github-readme-stats"/>
@@ -26,7 +27,8 @@
   
 ---
 
-### GitHub Streak
+## 🎯GitHub Streak
+
 <div align="center">
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepshikhayadav&theme=dark)](https://git.io/streak-stats)
@@ -35,7 +37,7 @@
   
 ---
   
-  ##  Know more about me 👋🚀
+  ## 🚀 Know more about me 👋
   
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:deepshikhayadav2000@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/Deepshi83711299)
