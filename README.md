@@ -13,7 +13,7 @@
 - 💬 Ask me about kotlin, java, firebase, room, Rest Api
 
 ### 📊 Github Stats
- <span>
+ <span align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=deepshikhayadav&count_private=true&show_icons=true&theme=highcontrast&include_all_commits=true" alt="Deepshikha yadav |Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepshikhayadav&theme=dracula&layout=compact)](https://github.com/deepshikhayadav/github-readme-stats"/>
   
